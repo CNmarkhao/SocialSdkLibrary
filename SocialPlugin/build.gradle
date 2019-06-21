@@ -32,3 +32,4 @@ publish {
     desc = 'SocialSdkPlugin'
     website = 'https://github.com/chendongMarch/SocialSdkLibrary'
 }
+apply from: "../JitPackUpload.gradle"
