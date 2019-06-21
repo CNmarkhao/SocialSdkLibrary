@@ -14,3 +14,4 @@ publish {
     desc = 'SocialSdkCore'
     website = 'https://github.com/chendongMarch/SocialSdkLibrary'
 }
+apply from: "../JitPackUpload.gradle"
